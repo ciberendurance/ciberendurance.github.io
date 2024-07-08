@@ -1,8 +1,6 @@
 ---
 title: Primer post presentación 
 date: 2024-07-08 13:45:00 +/-TTTT
-categories: 
-tags:      # TAG names should always be lowercase
 ---
 
 # ¡Bienvenidos a mi blog sobre Informática y Ciberseguridad!
