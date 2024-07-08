@@ -1,3 +1,10 @@
+---
+title: Primer post presentación 
+date: 2024-07-08 13:45:00 +/-TTTT
+categories: 
+tags:      # TAG names should always be lowercase
+---
+
 # ¡Bienvenidos a mi blog sobre Informática y Ciberseguridad!
 
 ¿Alguna vez te has preguntado cómo funcionan los sistemas que utilizamos a diario o cómo mantenernos seguros en el mundo digital? Si es así, estás en el lugar correcto.
