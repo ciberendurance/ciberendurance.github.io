@@ -3,9 +3,10 @@ title: Bienvenida a mi Blog de Informática y Ciberseguridad
 author: jccn
 date: 2024-07-09 19:00:00 +0200
 toc: false
+comments: false
 ---
 
-# ¡Bienvenidos a mi blog sobre Informática y Ciberseguridad!
+## ¡Bienvenidos a mi blog sobre Informática y Ciberseguridad!
 ¿Alguna vez te has preguntado cómo funcionan los protocolos que protegen tus datos o cómo funcionan los sistemas operativos? Si es así, estás en el lugar correcto.
 
 Soy Juan Carlos, estudiante de ingeniería informática con una gran pasión por la informática y la ciberseguridad. Desde pequeño, siempre me ha fascinado explorar y entender los misterios detrás de la pantalla.
